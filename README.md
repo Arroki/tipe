@@ -1,6 +1,6 @@
 Once downloaded, use **./build.sh [file type] [file name]** with
 
-- [file type] : either "-pts" or "-epi", depending on whether you want to pass a file with the points or with the data of the cirlces
+- [file type] : either "-pts" or "-epi", depending on whether you want to pass a file with the points or with the data of the cirlces (the file extension will have to match)
 
 - "-pts" files contain one line with the number of points in the file, followed by that number of lines in the form **x coordinates, y coordinates**
 
