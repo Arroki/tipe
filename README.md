@@ -18,7 +18,7 @@ After executing the build command and having your drawing being drawn, you can :
 
 - Press *r* to erase the drawing
 
-- Press *p* to show the input points (only if you entered a ".pts" file)
+- Press *p* to show the input points (only if you entered a ".pts" file, points won't be accurate if you zommed / de-zoomed)
 
 - Press *e* to hide the drawing
 
